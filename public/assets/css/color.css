@@ -1,0 +1,1170 @@
+/* Default Color File  */
+
+
+
+/* Color */
+a:hover,
+a {
+    color: #000;
+}
+
+.scroll-to-top:hover,
+.preloader-close,
+.search-popup .search-form fieldset input[type="submit"] {
+    background-color: #000;
+}
+
+.scroll-to-top {
+    color: #000;
+    border: 2px dashed #000;
+}
+
+.btn-style-one.style-two i {
+    color: #000;
+}
+
+.btn-style-one.style-two:before {
+    background: #000;
+}
+
+.btn-style-one.style-two:hover {
+    border-color: #000;
+}
+
+.btn-style-one {
+    background-color: #000;
+}
+
+.header-top .social-icon li a:hover {
+    color: #000;
+}
+
+.header-top .location span {
+    color: #000;
+}
+
+.header-top .phone-number i {
+    color: black;
+}
+
+.header-top .mail-address i {
+    color: black;
+}
+
+.main-menu .navigation>li:before {
+    color: black;
+}
+
+.main-menu .navigation>li>a:before {
+    color: black;
+}
+
+.main-menu .navigation>li>a:after {
+    color: black;
+}
+
+.main-menu .navigation>li.current>a {
+    color: #000;
+}
+
+.main-menu .navigation>li>ul>li>a:hover {
+    color: black;
+}
+
+.main-menu .navigation>li>ul>li>ul>li>a:hover {
+    color: black;
+}
+
+.header-upper .navbar-right-info .sign-in a i {
+    color: black;
+}
+
+.header-upper #polyglotLanguageSwitcher a.current:link,
+.header-upper #polyglotLanguageSwitcher a.current:visited,
+.header-upper #polyglotLanguageSwitcher a.current:active {
+    color: black;
+}
+
+.header-upper #polyglotLanguageSwitcher span.trigger:before {
+    color: black;
+}
+
+.hidden-sidebar-close {
+    background-color: black;
+}
+
+.contact-widget .icon {
+    color: black;
+}
+
+/* .banner-section .banner-slider-nav.style-two .banner-slider-button-next {
+    background: black;
+
+} */
+.banner-section .banner-slider-nav.style-two .banner-slider-button-next {
+    background: black;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+
+}
+
+.left-panel .side-menu-nav span {
+    color: black;
+}
+
+.left-panel .option-box .icon {
+    color: black;
+}
+
+.left-panel .option-box .order-form-area .order-form .theme-btn i {
+    color: black;
+}
+
+.left-panel .option-box .btn-style-one:before {
+    background-color: black;
+}
+
+.sec-title .sub-title {
+    color: black;
+}
+
+.sec-title .sub-title:before {
+    color: white;
+}
+
+.sec-title .sub-title:after {
+    color: white;
+}
+
+.service-block-one .link:hover {
+    color: black;
+}
+
+.service-block-one .link i {
+    color: black;
+}
+
+.service-block-one .inner-box:hover .image:after {
+    border-color: black;
+}
+
+.readmore-link:hover {
+    color: black;
+}
+
+.readmore-link i {
+    color: black;
+}
+
+.about-section .icon-box:before {
+    background-color: black;
+}
+
+.about-section .icon-box:hover .icon {
+    color: black;
+}
+
+.why-choose-block .inner-box .icon {
+    color: black;
+}
+
+.why-choose-block .inner-box:hover .icon:before {
+    border-color: black;
+}
+
+.why-choose-block .inner-box:hover .icon:after {
+    background-color: rgb(170, 169, 169) !important;
+    border-color: #000000 !important;
+}
+
+.why-choose-block .inner-box:hover .icon>img:after {
+    background-color: rgb(170, 169, 169) !important;
+    border-color: #000000 !important;
+}
+
+.why-choose-block .inner-box .count {
+    color: black;
+}
+
+.work-process-block .inner-box:hover .count:before {
+    border: 20px dotted black;
+}
+
+.work-process-block .inner-box:hover .count {
+    background-color: black;
+}
+
+.work-process-block .icon {
+    border: 2px solid black;
+    color: black;
+}
+
+.work-process-block .icon:before {
+    border-bottom-color: black;
+}
+
+.industries-covered .text-block .content .icon {
+    color: black;
+}
+
+.industries-covered .owl-theme .owl-nav .owl-prev:hover:after,
+.industries-covered .owl-theme .owl-nav .owl-next:hover:after {
+    color: black;
+}
+
+.industries-covered .owl-theme .owl-nav .owl-prev:hover,
+.industries-covered .owl-theme .owl-nav .owl-next:hover {
+    color: black;
+}
+
+.pricing-block .content li:after {
+    color: black;
+}
+
+.pricing-block .link-box .theme-btn:before {
+    background-color: black;
+}
+
+.pricing-block.style-two .category-wrapper:before {
+    background: black;
+}
+
+.pricing-block.style-two .category-wrapper:after {
+    background: black;
+}
+
+.pricing-block.style-two .category {
+    background: black;
+}
+
+.facts-section .counter-column .count-text {
+    color: black;
+}
+
+.testimonial-block .quote {
+    background-color: black;
+}
+
+.testimonial-block .rating {
+    color: black;
+}
+
+.news-block-one .date {
+    background-color: black;
+}
+
+.news-block-one .category {
+    color: black;
+}
+
+.news-block-one h3 a:hover {
+    color: black;
+}
+
+.news-block-one .overlay .readmore-link:hover {
+    color: black;
+}
+
+.news-block-one .overlay .readmore-link:hover {
+    color: black;
+}
+
+.branches-section .single-info h4 span {
+    color: black;
+}
+
+.branches-section .owl-theme .owl-nav .owl-prev:hover:after,
+.branches-section .owl-theme .owl-nav .owl-next:hover:after {
+    color: black;
+}
+
+.branches-section .owl-theme .owl-nav .owl-prev:hover,
+.branches-section .owl-theme .owl-nav .owl-next:hover {
+    color: black;
+}
+
+.newsletter-section h3 span {
+    background: black;
+}
+
+.newsletter-form .btn-style-one i {
+    color: black;
+}
+
+.newsletter-form .btn-style-one:before {
+    background: black;
+}
+
+.contact-widget.style-two .text span {
+    color: black;
+}
+
+.contact-widget.style-two .social-icon li a:hover {
+    color: black;
+}
+
+.links-widget ul li a:hover {
+    color: black;
+}
+
+.main-header.header-style-two .header-top {
+    background-color: black;
+}
+
+.header-left-option .option-box:hover h4 i {
+    color: black;
+}
+
+.header-left-option .option-box .icon {
+    color: black;
+}
+
+.header-left-option .option-box .order-form-area .order-form .theme-btn i {
+    color: black;
+}
+
+.header-left-option .option-box .btn-style-one:before {
+    background-color: black;
+}
+
+.banner-section .banner-slider-nav.style-three .banner-slider-button-prev:hover {
+    color: black;
+}
+
+.banner-section .banner-slider-nav.style-three .banner-slider-button-next:hover {
+    color: black;
+}
+
+.banner-slider-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
+    border-color: black;
+}
+
+.style-two.footer-bottom .bg:before {
+    background-color: black;
+}
+
+.about-widget .readmore-link:hover {
+    color: black;
+}
+
+.about-widget .download-pdf a {
+    background: black;
+}
+
+.footer-top .newsletter-form-two button:hover {
+    color: black;
+}
+
+.news-block-two .category {
+    color: black;
+}
+
+.news-block-two .date {
+    background: black;
+}
+
+.testimonial-block-two .designation {
+    color: black;
+}
+
+.testimonial-block-two .quote {
+    background-color: black;
+}
+
+.testimonial-block-two .inner-box:after {
+    border: 2px dashed black;
+}
+
+.whychooseus-block-two .icon i {
+    background-color: black;
+}
+
+.whychooseus-block-two .inner-box:hover .icon:before {
+    background-color: black;
+}
+
+.whychooseus-block-two .inner-box:before {
+    border: 2px dashed black;
+}
+
+.project-block .link-btn a {
+    background-color: black;
+}
+
+.project-block .link-btn a:hover {
+    color: black;
+}
+
+.project-block .category {
+    color: black;
+}
+
+.work-process-block-two .icon {
+    color: black;
+}
+
+.work-process-block-two .inner-box:hover .count {
+    background-color: black;
+}
+
+.getaquote-section .investor {
+    background: black;
+}
+
+.getaquote-section.style-one .getaquote-form .form-group .theme-btn {
+    border: 2px solid black;
+}
+
+.getaquote-section.style-one .getaquote-form .form-group .theme-btn:before {
+    background: black;
+}
+
+.service-block .overlay .link a {
+    background-color: black;
+}
+
+.service-block .content .icon {
+    color: black;
+}
+
+.facts-section-two .count-box {
+    color: black;
+}
+
+.facts-section-two .content:after {
+    background-color: black;
+}
+
+.about-section-two .icon-box:hover:before {
+    border: 2px dashed black;
+}
+
+.about-section-two .icon {
+    color: black;
+}
+
+.about-section-two .designation {
+    color: black;
+}
+
+.about-section-two .quote {
+    color: black;
+}
+
+.news-block-two h3 a:hover {
+    color: black;
+}
+
+.readmore-link.style-two:before {
+    background: black;
+}
+
+.header-top .sign-in a i {
+    color: black;
+}
+
+.header-top .links a:hover {
+    color: black;
+}
+
+.header-style-three .header-top .sign-in a:hover {
+    color: black;
+}
+
+.header-upper .contact-info-two .icon {
+    color: black;
+}
+
+.services-section-two .owl-theme .owl-nav .owl-prev:hover:after {
+    color: black;
+    border-color: black;
+}
+
+.services-section-two .owl-theme .owl-nav .owl-next:hover:after {
+    color: black;
+    border-color: black;
+}
+
+.facts-section-three .icon {
+    color: black;
+}
+
+.facts-section-three .inner:hover .icon {
+    background-color: black;
+    border-color: black;
+}
+
+.facts-section-three .count-box {
+    color: black;
+}
+
+.about-section-three .link a:before {
+    background-color: black;
+}
+
+.about-section-three .link a:hover i {
+    color: black;
+}
+
+.skills .skill-item .skill-bar .bar-inner .bar:before {
+    background: black;
+}
+
+.video-section h5 a:hover {
+    color: black;
+}
+
+.video-section h5 a:before {
+    color: black;
+}
+
+.video-section h5 a:after {
+    color: black;
+}
+
+.team-blcok .designation {
+    border-left: 3px solid black;
+}
+
+.team-blcok .social-icon {
+    background: black;
+}
+
+.getaquote-section.style-two .social-icon li a:before {
+    background-color: black;
+}
+
+.pricing-block-two .price {
+    background-color: black;
+}
+
+.pricing-block-two .link-box .theme-btn {
+    border: 2px solid black;
+}
+
+.pricing-block-two .link-box .theme-btn i {
+    color: black;
+}
+
+.pricing-block-two .link-box .theme-btn:before {
+    background-color: black;
+}
+
+.testimonial-block-three .quote {
+    background-color: black;
+}
+
+.testimonial-block-three .rating span {
+    color: black;
+}
+
+.testimonials-section-three .testimonial-slider-button-next:hover {
+    color: black;
+    border-color: black;
+}
+
+.testimonials-section-three .testimonial-slider-button-prev:hover {
+    color: black;
+    border-color: black;
+}
+
+.contact-info-block ul li a {
+    color: black;
+}
+
+.main-footer.style-three .links-widget ul li a:hover {
+    color: black;
+}
+
+.news-widget .post .content h4 a:hover {
+    color: black;
+}
+
+.news-widget .post .content .date i {
+    color: black;
+}
+
+.about-widget-two .list li:before {
+    color: black;
+}
+
+.footer-bottom.style-three .social-icon li a:before {
+    background-color: black;
+}
+
+.footer-bottom.style-three .copyright-text a:hover {
+    color: black;
+}
+
+.header-style-four .header-top .links a:hover {
+    color: black;
+}
+
+.header-upper .contact-info-three .icon {
+    background-color: black;
+}
+
+.service-block-three .icon {
+    color: black;
+}
+
+.service-block-three .link a {
+    color: black;
+}
+
+.services-section-three .owl-theme .owl-nav .owl-prev:hover:after {
+    color: black;
+    border-color: black;
+}
+
+.services-section-three .owl-theme .owl-nav .owl-next:hover:after {
+    color: black;
+    border-color: black;
+}
+
+.btn-style-one.style-2 i {
+    color: black;
+}
+
+.btn-style-one.style-2:before {
+    background-color: black;
+}
+
+.about-section-two .skills .skill-item .skill-bar .bar-inner .bar {
+    background-color: black;
+}
+
+.about-section-two .skills .skill-item .skill-bar .bar-inner .bar:before {
+    background: black;
+}
+
+.whychooseus-section-three .counter-column .icon {
+    color: black;
+}
+
+.whychooseus-section-three .counter-column .count-box {
+    color: black;
+}
+
+.whychooseus-block-three .inner-box:before {
+    border: 2px dashed black;
+}
+
+.team-section .owl-theme .owl-nav .owl-prev:hover:after {
+    color: black;
+    border-color: black;
+}
+
+.team-section .owl-theme .owl-nav .owl-next:hover:after {
+    color: black;
+    border-color: black;
+}
+
+.project-block-two .category {
+    color: black;
+}
+
+.project-block-two .link-btn {
+    background: black;
+}
+
+.testimonial-block-four .author-thumb:before {
+    border: 3px solid black;
+}
+
+.testimonial-block-four .quote {
+    background: black;
+}
+
+.testimonial-block-four .designation {
+    color: black;
+}
+
+.testimonial-block-four .rating span {
+    color: black;
+}
+
+.testimonials-section-four .owl-theme .owl-nav .owl-prev:hover:after {
+    color: black;
+}
+
+.testimonials-section-four .owl-theme .owl-nav .owl-next:hover:after {
+    color: black;
+}
+
+.news-block-three .date {
+    background: black;
+}
+
+.news-block-three .category i {
+    color: black;
+}
+
+.news-block-three h3 a:hover {
+    color: black;
+}
+
+.news-section-three .owl-theme .owl-nav .owl-prev:hover:after {
+    color: black;
+    border-color: black;
+}
+
+.news-section-three .owl-theme .owl-nav .owl-next:hover:after {
+    color: black;
+    border-color: black;
+}
+
+.cta-section .wrapper-box:before {
+    background: black;
+}
+
+.main-footer.style-four .links-widget ul li a:hover {
+    color: black;
+}
+
+.about-widget-three .readmore-link:hover {
+    color: black;
+}
+
+.footer-bottom.style-four .social-icon li a:before {
+    background-color: black;
+}
+
+.industries-covered-two .nav-tabs.tab-btn-style-one li a .icon {
+    color: black;
+}
+
+.industries-covered-two .nav-tabs.tab-btn-style-one li a.active {
+    background: black;
+    border-color: black;
+}
+
+.industries-covered-two .theme-btn-two:hover {
+    color: black;
+}
+
+.industries-covered-two .theme-btn-two i {
+    background: black;
+}
+
+.industries-covered-two .owl-theme .owl-nav .owl-prev:hover:after,
+.industries-covered-two .owl-theme .owl-nav .owl-next:hover:after {
+    opacity: 1;
+    color: black
+}
+
+.contact-info-section-two .owl-theme .owl-nav .owl-prev:hover:after,
+.contact-info-section-two .owl-theme .owl-nav .owl-next:hover:after {
+    color: black;
+}
+
+.testimonials-section-two .owl-theme .owl-nav .owl-prev:hover:after {
+    color: black;
+}
+
+.testimonials-section-two .owl-theme .owl-nav .owl-next:hover:after {
+    color: black;
+}
+
+.pagination li a:hover i,
+.pagination li a:hover,
+.pagination li a.active {
+    color: black;
+}
+
+.widget_categories ul li a:hover {
+    color: black;
+}
+
+.widget_categories span {
+    color: black;
+}
+
+.news-widget-two .post:hover .content .date {
+    color: black;
+}
+
+.tag-cloud-widget ul li a:hover {
+    background: black;
+}
+
+.advertisement-widget .theme-btn:before {
+    background-color: black;
+}
+
+.advertisement-widget .theme-btn i {
+    color: black;
+}
+
+.news-block-four .date {
+    background-color: #000;
+}
+
+.news-block-four .category {
+    color: #000;
+}
+
+.news-block-four h3 a:hover {
+    color: black;
+}
+
+.news-block-four .post-meta li a:hover {
+    color: #000;
+}
+
+.news-block-four .social-links-wrapper:hover .icon {
+    background: #000;
+    border-color: #000;
+}
+
+.news-block-four .social-links li a:hover {
+    background-color: #000;
+    border-color: #000;
+}
+
+.news-block-four .link-box .theme-btn i {
+    color: #000;
+}
+
+.news-block-four .link-box .theme-btn:before {
+    background-color: #000;
+}
+
+.blog-sidebar.style-two .widget {
+    border-top: 5px solid #000;
+}
+
+.blog-single-post blockquote .quote-icon {
+    background-color: #000;
+}
+
+.blog-single-post .tag a:hover {
+    background: #000;
+}
+
+.post-pagination .post:hover .content .date {
+    color: #000;
+}
+
+.news-section .author-box h5 a {
+    color: #000;
+}
+
+.comments-area .comment-box .reply-comment-btn {
+    color: #000;
+}
+
+.news-section .comment-form .theme-btn i {
+    color: #000;
+}
+
+.news-section .comment-form .theme-btn:before {
+    background-color: #000;
+}
+
+.header-style-five .header-upper .language button.btn.dropdown-toggle {
+    color: #000;
+}
+
+.header-style-five .header-upper .bootstrap-select .dropdown-toggle .filter-option:after {
+    color: #000;
+}
+
+.contact-info-section-two .tab-content h4 span {
+    color: #cfcbcb;
+}
+
+.contact-info-section-two .icon-box .icon {
+    color: #cfcbcb;
+}
+
+.contact-form .form-group .theme-btn:before {
+    background: #000;
+}
+
+.services-section.style-two .owl-theme .owl-nav .owl-prev:hover:after,
+.services-section.style-two .owl-theme .owl-nav .owl-next:hover:after {
+    background-color: #000;
+}
+
+.cta-section-two .theme-btn:before {
+    background: #000;
+}
+
+.services-section-two.style-two .service-block-two .image-box .icon {
+    color: #000;
+}
+
+.service-sidebar .widget {
+    border-top: 5px solid black;
+}
+
+.widget_categories-two ul li.active a {
+    color: #000;
+}
+
+.widget_categories-two ul li.active:before {
+    color: #000;
+}
+
+.widget_categories-two li.active i {
+    color: #000;
+}
+
+.widget_categories-two ul li.active {
+    border-color: #000;
+}
+
+.widget_categories-two ul li a:hover {
+    color: #000;
+}
+
+.getaquote-widget .form-group .theme-btn:before {
+    background-color: #000;
+}
+
+.getaquote-widget .form-group .theme-btn i {
+    color: #000;
+}
+
+.service-details .text-block {
+    background: #000;
+}
+
+.service-details .counter-column .count-box {
+    color: #000;
+}
+
+.service-details .features .icon-box:hover:before {
+    border: 2px dashed #000;
+}
+
+.service-details .features .icon {
+    color: #000;
+}
+
+.testimonial-block-five .quote {
+    background: #000;
+}
+
+.testimonial-block-five .designation {
+    color: #000;
+}
+
+.testimonial-block-five .rating span {
+    color: #000;
+}
+
+.getaquote-section.style-four .getaquote-form .form-group .theme-btn:before {
+    background-color: black;
+
+}
+
+.getaquote-section.style-four .getaquote-form .form-group .theme-btn i {
+    color: #000;
+}
+
+.getaquote-section .note span {
+    color: #000;
+
+}
+
+.accordion-box .block .acc-btn.active .icon-outer {
+    color: #000;
+}
+
+.accordion-box .block .acc-btn.active strong {
+    color: #000;
+}
+
+.faq-section .nav-tabs.tab-btn-style-one .nav-link.active h4 i,
+.faq-section .nav-tabs.tab-btn-style-one .nav-link:hover h4 i {
+    transform: rotate(90deg);
+    color: #000;
+}
+
+.faq-section .nav-tabs.tab-btn-style-one .nav-link.active,
+.faq-section .nav-tabs.tab-btn-style-one .nav-link:hover {
+    background: #fff;
+    color: #000;
+}
+
+.faq-section .nav-tabs.tab-btn-style-one .nav-link.active h4,
+.faq-section .nav-tabs.tab-btn-style-one .nav-link:hover h4 {
+    color: #000;
+}
+
+.faq-section .nav-tabs.tab-btn-style-one .nav-link:before {
+    border: 2px solid #000;
+}
+
+.filter-tabs {
+    border: 2px dashed #000;
+}
+
+.project-block-three .category {
+    color: #000;
+}
+
+.project-block-three .link-btn a {
+    color: #000;
+}
+
+.project-block-three .link-btn a:hover {
+    background-color: #000;
+}
+
+.projects-section-four .theme-btn:before {
+    background: #000;
+}
+
+.projects-section-four .theme-btn i {
+    color: #000;
+}
+
+.related-projects .owl-theme .owl-nav .owl-prev:hover:after {
+    color: #000;
+}
+
+.related-projects .owl-theme .owl-nav .owl-next:hover:after {
+    color: #000;
+}
+
+.project-details h5 {
+    color: #000;
+}
+
+.banner-section-two .link-box a i {
+    color: #000;
+}
+
+.banner-section-two .link-box a {
+    border: 2px solid #000;
+    color: #000;
+}
+
+.banner-section-two .left-panel .option-box .icon {
+    background: #000;
+}
+
+.history-section .owl-theme .owl-nav .owl-prev:hover:after {
+    color: #000;
+    border-color: #000;
+}
+
+.history-section .owl-theme .owl-nav .owl-next:hover:after {
+    color: #000;
+    border-color: #000;
+}
+
+.banner-section-two .text-block h4 {
+    color: #000;
+}
+
+.page-title .content-box .bread-crumb.style-two li.active a,
+.page-title .content-box .bread-crumb.style-two li:hover a {
+    color: #000;
+}
+
+.page-title .content-box .bread-crumb.style-two li.active a i,
+.page-title .content-box .bread-crumb.style-two li:hover a i {
+    color: #000;
+}
+
+.page-title .content-box .bread-crumb.style-two li a:before {
+    border: 2px solid #000;
+}
+
+.contact-info-section-three .nav-tabs.tab-btn-style-one .active h4 {
+    color: #000
+}
+
+.contact-info-block-two ul li a span {
+    color: #000;
+}
+
+.bottom-content .text span {
+    color: #000;
+}
+
+.history-block .inner-box:hover {
+    border-color: #000;
+}
+
+.history-block .date {
+    color: #000;
+}
+
+.history-block .date:before {
+    border-bottom: 2px dashed #000;
+}
+
+.history-section .nav-tabs.tab-btn-style-one li.nav-item:after {
+    background-color: #000;
+}
+
+.who-we-are-section .experience-year .icon {
+    border: 2px dashed #000;
+    color: #000;
+}
+
+.who-we-are-section .experience-year h3 {
+    color: #000;
+}
+
+.who-we-are-section .experience-year h5 {
+    color: #000;
+}
+
+.who-we-are-section .theme-btn:before {
+    background-color: #000;
+}
+
+.who-we-are-section .theme-btn i {
+    color: #000;
+}
+
+.who-we-are-section .designation {
+    color: #000;
+}
+
+.who-we-are-section .video-btn a {
+    background-color: #000;
+}
+
+.whychooseus-block-four .icon {
+    color: #000;
+}
+
+.whychooseus-block-four .icon i {
+    background: #000;
+}
+
+.certificate-block .inner-box:hover .image:before {
+    border-color: #000;
+}
+
+.certificate-section .owl-theme .owl-nav .owl-next:hover:after,
+.certificate-section .owl-theme .owl-nav .owl-prev:hover:after {
+    color: #000;
+}
+
+.statement-section .nav-tabs.tab-btn-style-one .nav-item .nav-link.active,
+.statement-section .nav-tabs.tab-btn-style-one .nav-item .nav-link:hover {
+    color: #000;
+    border-color: #000;
+}
+
+.statement-section .nav-tabs.tab-btn-style-one .nav-item .nav-link.active h4,
+.statement-section .nav-tabs.tab-btn-style-one .nav-item .nav-link:hover h4 {
+    color: #000;
+}
+
+.statement-section .nav-tabs.tab-btn-style-one .nav-item .nav-link.active i,
+.statement-section .nav-tabs.tab-btn-style-one .nav-item .nav-link:hover i {
+    color: #000;
+}
+
+.filter-tabs li.active {
+    color: #000;
+}

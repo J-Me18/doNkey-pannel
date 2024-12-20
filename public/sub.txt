@@ -1,0 +1,15 @@
+$this->validate($request, [
+        'name' =>'required',
+        'location' => 'required',
+        'subscriptionDate' => 'required',
+        'email' => 'required',
+        'mobile' => 'required|numeric|min:10|max:12',
+        'pincode' => 'required',
+
+        'aadharNo' => 'required|numeric|unique:subscriber,aadharNo|numeric|min:12|max:12',
+        'aadharImage' =>'required |mimes:doc,pdf,docx,jpeg,png,jpg,gif,svg',
+        'pancardImage' =>'required mimes:doc,pdf,docx,jpeg,png,jpg,gif,svg',
+        'bankstatement' =>'required mimes:doc,pdf,docx,jpeg,png,jpg,gif,svg',
+
+        'image' =>'required mimes:doc,pdf,docx,jpeg,png,jpg,gif,svg',
+        ]);
