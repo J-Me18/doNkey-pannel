@@ -57,6 +57,7 @@ use App\Http\Controllers\Subscriber\PaymentController;
 Route::get('/', function () {
     return to_route('dashboard');
 });
+
 Route::get('accountDeletion', function () {
     return view('accountDelation');
 });
